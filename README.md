@@ -7,7 +7,7 @@ A modern, responsive Tourism & Travel website built using **HTML**, **CSS**, and
 - 🗺️ Beautiful homepage with featured travel destinations
 - 🧭 Responsive design (mobile-friendly)
 - 🔍 Interactive sections like image sliders, pop-ups, and smooth scrolling
-- 📋 Navigation menu for exploring sections
+- 📋 Navigation menu for exploring sectionssscdsf
 - ✈️ "Book Now" or "Explore" button for call-to-action
 
 ## 📸 Screenshots
