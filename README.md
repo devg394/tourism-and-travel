@@ -23,7 +23,7 @@ A modern, responsive Tourism & Travel website built using **HTML**, **CSS**, and
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies Used t
 
 - **HTML5** – Structure
 - **CSS3** – Styling and layout
